@@ -1,0 +1,6 @@
+FeiShu:
+  appId:  # 应用ID
+  appSecret:  # 应用密钥
+  redirectUrl:  # 回调地址
+server:
+  port: 8881
